@@ -1,0 +1,978 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2017.3.28)  8 APR 2017 12:04
+entering extended mode
+**./MackintoshPerson.tex
+(MackintoshPerson.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\palatino.sty"
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2015/09/07 v1.1p UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2015/09/07 v1.1p UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(MackintoshPerson.aux)
+\openout1 = `MackintoshPerson.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for OT1+ppl on input line 17.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ppl.fd"
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a5paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(63.16576pt, 294.76926pt, 63.16577pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=421.10078pt
+* \paperheight=597.50787pt
+* \textwidth=294.76926pt
+* \textheight=418.25368pt
+* \oddsidemargin=-9.10423pt
+* \evensidemargin=-9.10423pt
+* \topmargin=-32.44212pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=7.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+[1
+
+
+
+{C:/Users/benna/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 23.
+
+(MackintoshPerson.toc
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `MackintoshPerson.toc'.
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 27.
+ [1
+
+]
+Underfull \hbox (badness 1881) in paragraph at lines 45--73
+\OT1/ppl/m/n/12 could name only an in-signif-i-cant and frag-men-tary
+ []
+
+[2
+
+]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 84--84
+[]\OT1/ppl/m/n/12 10 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 110--110
+[]\OT1/ppl/m/n/12 12 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 134--134
+[]\OT1/ppl/m/n/12 13 
+ []
+
+[3] [4] [5]
+Chapter 1.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 154--154
+[]\OT1/ppl/m/n/12 14 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 176--176
+[]\OT1/ppl/m/n/12 15 
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 158--194
+\OT1/ppl/m/n/12 self, that is, and of His re-deem-ing mis-sion to the
+ []
+
+[1
+
+
+]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 202--202
+[]\OT1/ppl/m/n/12 16 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 227--227
+[]\OT1/ppl/m/n/12 17 
+ []
+
+[2]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 253--253
+[]\OT1/ppl/m/n/12 18 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 279--279
+[]\OT1/ppl/m/n/12 19 
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 255--298
+[]\OT1/ppl/m/n/12 In re-gard to the first point---the Mes-si-ahship of
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 255--298
+\OT1/ppl/m/n/12 such a burn-ing in-ten-sity of mean-ing as ``Mes-siah.''
+ []
+
+[3] [4]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 305--305
+[]\OT1/ppl/m/n/12 20 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 330--330
+[]\OT1/ppl/m/n/12 21 
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 299--340
+\OT1/ppl/m/n/12 and love and hope from a mil-lion hearts in ev-ery
+ []
+
+[5]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 356--356
+[]\OT1/ppl/m/n/12 22 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 381--381
+[]\OT1/ppl/m/n/12 23 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 406--406
+[]\OT1/ppl/m/n/12 24 
+ []
+
+[6] [7]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 432--432
+[]\OT1/ppl/m/n/12 25 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 457--457
+[]\OT1/ppl/m/n/12 26 
+ []
+
+[8]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 483--483
+[]\OT1/ppl/m/n/12 27 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 508--508
+[]\OT1/ppl/m/n/12 28 
+ []
+
+[9] [10]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 534--534
+[]\OT1/ppl/m/n/12 29 
+ []
+
+[11]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 560--560
+[]\OT1/ppl/m/n/12 30 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 585--585
+[]\OT1/ppl/m/n/12 31 
+ []
+
+[12]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 611--611
+[]\OT1/ppl/m/n/12 32 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 636--636
+[]\OT1/ppl/m/n/12 33 
+ []
+
+[13]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 662--662
+[]\OT1/ppl/m/n/12 34 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 687--687
+[]\OT1/ppl/m/n/12 35 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 694.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 694.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 694.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 712--712
+[]\OT1/ppl/m/n/12 36 
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 644--716
+\OT1/ppl/m/n/12 that---according to Je-sus' self-description---this Mes-
+ []
+
+[14] [15]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 739--739
+[]\OT1/ppl/m/n/12 37 
+ []
+
+[16]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 765--765
+[]\OT1/ppl/m/n/12 38 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 790--790
+[]\OT1/ppl/m/n/12 39 
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 751--810
+\OT1/ppl/m/n/12 ev-ery-thing in re-li-gion turned, com-pletely cov-er-ing
+ []
+
+[17] [18]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 818--818
+[]\OT1/ppl/m/n/12 40 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 844--844
+[]\OT1/ppl/m/n/12 41 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 869--869
+[]\OT1/ppl/m/n/12 42 
+ []
+
+[19] [20]
+Chapter 2.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 899--899
+[]\OT1/ppl/m/n/12 44 
+ []
+
+[21
+
+]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 925--925
+[]\OT1/ppl/m/n/12 45 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 951--951
+[]\OT1/ppl/m/n/12 46 
+ []
+
+[22]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 977--977
+[]\OT1/ppl/m/n/12 47 
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 957--989
+\OT1/ppl/m/n/12 through all this won-der-ful and in-cal-cu-la-ble va-ri-ety
+ []
+
+[23]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1003--1003
+[]\OT1/ppl/m/n/12 48 
+ []
+
+[24]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1029--1029
+[]\OT1/ppl/m/n/12 49 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1054--1054
+[]\OT1/ppl/m/n/12 50 
+ []
+
+[25]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1080--1080
+[]\OT1/ppl/m/n/12 51 
+ []
+
+[26]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1107--1107
+[]\OT1/ppl/m/n/12 52 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1132--1132
+[]\OT1/ppl/m/n/12 53 
+ []
+
+[27]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1158--1158
+[]\OT1/ppl/m/n/12 54 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1183--1183
+[]\OT1/ppl/m/n/12 55 
+ []
+
+[28] [29]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1211--1211
+[]\OT1/ppl/m/n/12 56 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1236--1236
+[]\OT1/ppl/m/n/12 57 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1242.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1262--1262
+[]\OT1/ppl/m/n/12 58 
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 1212--1279
+\OT1/ppl/m/n/12 of Glas-gow con-ferred upon David Liv-ing-stone the
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 1212--1279
+\OT1/ppl/m/n/12 cer-tainty of Christ's sus-tain-ing power rests not on
+ []
+
+[30] [31]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1289--1289
+[]\OT1/ppl/m/n/12 59 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1314--1314
+[]\OT1/ppl/m/n/12 60 
+ []
+
+[32]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1341--1341
+[]\OT1/ppl/m/n/12 61 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1367--1367
+[]\OT1/ppl/m/n/12 62 
+ []
+
+[33]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1393--1393
+[]\OT1/ppl/m/n/12 63 
+ []
+
+[34]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1419--1419
+[]\OT1/ppl/m/n/12 64 
+ []
+
+[35]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1447--1447
+[]\OT1/ppl/m/n/12 65 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1474--1474
+[]\OT1/ppl/m/n/12 66 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1499--1499
+[]\OT1/ppl/m/n/12 67 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1524--1524
+[]\OT1/ppl/m/n/12 68 
+ []
+
+[36] [37] [38]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1550--1550
+[]\OT1/ppl/m/n/12 69 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1576--1576
+[]\OT1/ppl/m/n/12 70 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1601--1601
+[]\OT1/ppl/m/n/12 71 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1626--1626
+[]\OT1/ppl/m/n/12 72 
+ []
+
+[39] [40]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1652--1652
+[]\OT1/ppl/m/n/12 73 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1677--1677
+[]\OT1/ppl/m/n/12 74 
+ []
+
+[41]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1702--1702
+[]\OT1/ppl/m/n/12 75 
+ []
+
+[42]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1729--1729
+[]\OT1/ppl/m/n/12 76 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1754--1754
+[]\OT1/ppl/m/n/12 77 
+ []
+
+[43] [44]
+Chapter 3.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1784--1784
+[]\OT1/ppl/m/n/12 79 
+ []
+
+[45
+
+]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1810--1810
+[]\OT1/ppl/m/n/12 80 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1835--1835
+[]\OT1/ppl/m/n/12 81 
+ []
+
+[46]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1863--1863
+[]\OT1/ppl/m/n/12 82 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1888--1888
+[]\OT1/ppl/m/n/12 83 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1913--1913
+[]\OT1/ppl/m/n/12 84 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1938--1938
+[]\OT1/ppl/m/n/12 85 
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 1862--1949
+\OT1/ppl/m/n/12 as-sured that Christ is su-pe-rior even to con-science.
+ []
+
+[47] [48] [49]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1964--1964
+[]\OT1/ppl/m/n/12 86 
+ []
+
+[50]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 1990--1990
+[]\OT1/ppl/m/n/12 87 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2015--2015
+[]\OT1/ppl/m/n/12 88 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2040--2040
+[]\OT1/ppl/m/n/12 89 
+ []
+
+[51] [52]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2066--2066
+[]\OT1/ppl/m/n/12 90 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2092--2092
+[]\OT1/ppl/m/n/12 91 
+ []
+
+[53]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2118--2118
+[]\OT1/ppl/m/n/12 92 
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 2112--2138
+[]\OT1/ppl/m/n/12 Here, then, is the watch-word for a con-quer-ing
+ []
+
+[54]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2144--2144
+[]\OT1/ppl/m/n/12 93 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2169--2169
+[]\OT1/ppl/m/n/12 94 
+ []
+
+[55]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2198--2198
+[]\OT1/ppl/m/n/12 95 
+ []
+
+[56]
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2226--2226
+[]\OT1/ppl/m/n/12 96 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2252--2252
+[]\OT1/ppl/m/n/12 97 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2277--2277
+[]\OT1/ppl/m/n/12 98 
+ []
+
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 2302--2302
+[]\OT1/ppl/m/n/12 99 
+ []
+
+[57] [58]
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2328--2328
+[]\OT1/ppl/m/n/12 100 
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 2306--2342
+\OT1/ppl/m/n/12 pre-existence---His eter-nity were a bet-ter name---is
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 2306--2342
+\OT1/ppl/m/n/12 turn---the re-la-tion of eter-nity and time. It would
+ []
+
+[59]
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2355--2355
+[]\OT1/ppl/m/n/12 101 
+ []
+
+
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2380--2380
+[]\OT1/ppl/m/n/12 102 
+ []
+
+
+Underfull \hbox (badness 1472) in paragraph at lines 2352--2399
+\OT1/ppl/m/n/12 as Father---is al-tered, sub-tly but un-mis-tak-ably and
+ []
+
+[60] [61]
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2406--2406
+[]\OT1/ppl/m/n/12 103 
+ []
+
+
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2431--2431
+[]\OT1/ppl/m/n/12 104 
+ []
+
+[62]
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2457--2457
+[]\OT1/ppl/m/n/12 105 
+ []
+
+[63]
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2483--2483
+[]\OT1/ppl/m/n/12 106 
+ []
+
+LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 2499.
+
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2508--2508
+[]\OT1/ppl/m/n/12 107 
+ []
+
+[64]
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2534--2534
+[]\OT1/ppl/m/n/12 108 
+ []
+
+
+Overfull \hbox (11.0pt too wide) in paragraph at lines 2559--2559
+[]\OT1/ppl/m/n/12 109 
+ []
+
+[65] [66] (MackintoshPerson.aux) ) 
+Here is how much of TeX's memory you used:
+ 1085 strings out of 493634
+ 13988 string characters out of 3141314
+ 84501 words of memory out of 3000000
+ 4482 multiletter control sequences out of 15000+200000
+ 23628 words of font info for 57 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 23i,8n,19p,152b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/
+dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palati
+no/uplb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8
+a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on MackintoshPerson.pdf (72 pages, 202681 bytes).
+PDF statistics:
+ 250 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
